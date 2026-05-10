@@ -7,3 +7,6 @@
 [submodule "the_split_keyboard/kbd"]
 	path = the_split_keyboard/kbd
 	url = https://github.com/foostan/kbd.git
+[submodule "the_split_keyboard/keyboard.pretty"]
+	path = the_split_keyboard/keyboard.pretty
+	url = https://github.com/swanmatch/keyboard.pretty.git
