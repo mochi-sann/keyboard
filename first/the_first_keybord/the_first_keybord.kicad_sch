@@ -4750,7 +4750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear"
 			(at 175.895 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -5116,7 +5116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear"
 			(at 175.895 95.885 0)
 			(hide yes)
 			(show_name no)
@@ -6298,7 +6298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear"
 			(at 159.385 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -6458,7 +6458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear"
 			(at 159.385 95.885 0)
 			(hide yes)
 			(show_name no)
