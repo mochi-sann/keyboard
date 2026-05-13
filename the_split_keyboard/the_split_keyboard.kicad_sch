@@ -2144,7 +2144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_cherrymx_hotswap_1u"
+		(property "Footprint" "keyboard:MX_Choc_Hotswap"
 			(at 124.46 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2309,7 +2309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_cherrymx_hotswap_1u"
+		(property "Footprint" "keyboard:MX_Choc_Hotswap"
 			(at 147.32 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2882,7 +2882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_cherrymx_hotswap_1u"
+		(property "Footprint" "keyboard:MX_Choc_Hotswap"
 			(at 147.32 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2961,7 +2961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:ProMicro"
+		(property "Footprint" "keyboard:ProMicro_v2"
 			(at 58.42 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3445,7 +3445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:keyswitch_cherrymx_hotswap_1u"
+		(property "Footprint" "keyboard:MX_Choc_Hotswap"
 			(at 124.46 86.36 0)
 			(hide yes)
 			(show_name no)
